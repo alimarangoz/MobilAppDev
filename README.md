@@ -20,4 +20,10 @@
 # 6-)TicTacToev2:
 - TicTacToev2 directory contains again TicTacToe game but, It created by using Model View Presenter modelling.
 
+# 7-)NoteApp:
+- NoteApp is implementation that use local storage and Fragment to store and display note data.
+
+# 8-)MyNotesCloudDB:
+- MyNotesCloudDB is implementation that use cloud database Firebase Firestore and display data by using Fragments.
+
 
